@@ -1,6 +1,8 @@
-min nye indkobsliste -f3 branch
+min nye indkobsliste -f4 branch
 æbler
 bananer
 mælk 
 brød
 smør
+panda mælk 
+mælkesnitter
