@@ -1,3 +1,6 @@
-min nye indkobsliste
+min nye indkobsliste -f3 branch
 æbler
 bananer
+mælk 
+brød
+smør
